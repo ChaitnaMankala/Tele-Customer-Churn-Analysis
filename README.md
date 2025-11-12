@@ -1,4 +1,3 @@
-# Tele Customer Churn Analysis
 # Predicting Customer Attrition: A Machine Learning Approach
 
 ## Overview
